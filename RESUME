@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="eng">
+  <head>
+      <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THIS IS MY RESUME</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+  <h1>AZHAR ,😎 </h1>
+  <h2>B TECH FIRST YEAR STUDENT.</h2>
+  <h3> Computer science student.</h3>
+  <p>
+  Hello! My name is <strong>AZHAR</strong>.
+  I am a B.tech first year student interested in programming and web development. 
+   I am learning HTML, CSS and java.
+   </p>
+<hr>
+<div class="section">
+    
